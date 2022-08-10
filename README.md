@@ -9,4 +9,5 @@ Php, Laravel\
 HTML, CSS, Bootstrap\
 JS, JQuery, React JS\
 MySql\
+<br />
 Open to new knowledge as well as fast-learner.
